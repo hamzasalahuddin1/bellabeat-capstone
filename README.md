@@ -38,22 +38,26 @@ to improve Bellabeat's marketing strategy for their app.
 ---
 
 ## Project Structure
+```
 sql/
-01_exploration.sql
-02_cleaning.sql
+  01_exploration.sql
+  02_cleaning.sql
 r/
-bellabeat_analysis.R
+  bellabeat_analysis.R
 visualizations/
-01_steps_distribution.png
-02_steps_by_day.png
-03_hourly_steps.png
-04_steps_vs_calories.png
-05_sleep_distribution.png
-06_user_segments.png
-07_activity_minutes.png
-08_weight_tracking.png
+  01_steps_distribution.png
+  02_steps_by_day.png
+  03_hourly_steps.png
+  04_steps_vs_calories.png
+  05_sleep_distribution.png
+  06_user_segments.png
+  07_activity_minutes.png
+  08_weight_tracking.png
 report/
+
 Bellabeat_Case_Study_Hamza_Salahuddin.pdf
+```
+
 ---
 
 ## Visualizations
