@@ -50,7 +50,7 @@ visualizations/
   03_hourly_steps.png
   04_steps_vs_calories.png
   05_sleep_distribution.png
-  06_sleep_efficiency
+  06_sleep_efficiency.png
   07_user_segments.png
   08_activity_minutes.png
   09_weight_tracking.png
