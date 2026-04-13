@@ -50,9 +50,10 @@ visualizations/
   03_hourly_steps.png
   04_steps_vs_calories.png
   05_sleep_distribution.png
-  06_user_segments.png
-  07_activity_minutes.png
-  08_weight_tracking.png
+  06_sleep_efficiency
+  07_user_segments.png
+  08_activity_minutes.png
+  09_weight_tracking.png
 report/
 
 Bellabeat_Case_Study_Hamza_Salahuddin.pdf
