@@ -1,7 +1,8 @@
 # Bellabeat Smart Device Analysis
 ### Google Data Analytics Capstone Project
 
-**Analyst:** Hamza Salahuddin /n
+**Analyst:** Hamza Salahuddin 
+
 **Certificate:** Google Data Analytics Professional Certificate
 
 ---
