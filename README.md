@@ -65,8 +65,8 @@ Bellabeat_Case_Study_Hamza_Salahuddin.pdf
 
 ![Steps Distribution](visualizations/01_steps_distribution.png)
 ![Hourly Activity](visualizations/03_hourly_steps.png)
-![User Segments](visualizations/06_user_segments.png)
-![Sleep Analysis](visualizations/05_sleep_distribution.png)
+![User Segments](visualizations/07_user_segments.png)
+![Sleep Analysis](visualizations/09_weight_tracking.png)
 
 ---
 
