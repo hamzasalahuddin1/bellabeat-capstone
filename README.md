@@ -2,7 +2,6 @@
 ### Google Data Analytics Capstone Project
 
 **Analyst:** Hamza Salahuddin
-**Date:** April 2026
 **Certificate:** Google Data Analytics Professional Certificate
 
 ---
@@ -71,9 +70,9 @@ Bellabeat_Case_Study_Hamza_Salahuddin.pdf
 ---
 
 ## Links
-- Kaggle Notebook : [Coming Soon]
+- Kaggle Notebook : 
 - Tableau Dashboard : https://public.tableau.com/app/profile/hamza.salahuddin/viz/BellabeatSmartDeviceAnalysisHS/Dashboard1
-- LinkedIn Post : [Coming Soon]
+- LinkedIn Post :
 
 ---
 
