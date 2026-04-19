@@ -71,9 +71,8 @@ Bellabeat_Case_Study_Hamza_Salahuddin.pdf
 ---
 
 ## Links
-- Kaggle Notebook : 
+
 - Tableau Dashboard : https://public.tableau.com/app/profile/hamza.salahuddin/viz/BellabeatSmartDeviceAnalysisHS/Dashboard1
-- LinkedIn Post :
 
 ---
 
